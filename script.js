@@ -76,6 +76,8 @@ function selectANumber() {
     }
 }
 
+selectANumber()
+
 // Function to relate the selected card with a sign
 function signEq() {
     if (selectedCardNumber === null) {
